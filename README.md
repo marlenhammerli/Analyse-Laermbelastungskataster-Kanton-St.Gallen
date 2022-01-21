@@ -3,17 +3,17 @@ Auswertung des Lärmbelastungskataster des Kantons St.Gallen (Layers Lärmemissi
 
 
 # Inhalt dieses Read.me
-* [Ziel](Ziel)
-* [Ausgangsthese](Ausgangsthese)
-* [Vorgenommene Analysen](Vorgenommene-Analysen)
-* [Quellen](Quellen)
-* [Gespräch mit Briefingperson](Gespräch-mit-Briefingperson)
-* [Einschätzung von Aufwand und Ertrag vor Beginn des Projekts](Einschätzung-von-Aufwand-und-Ertrag-vor-Beginn-des-Projekts)
-* [Stolpersteine](Stolpersteine)
-* [Programmcode](Programmcode)
-* [Arbeitsprotokoll](Arbeitsprotokoll)
-* [Ergebnis](Ergebnis)
-* [Merci](Merci)
+* Ziel
+* Ausgangsthese
+* Vorgenommene Analysen
+* Quellen
+* Gespräch mit Briefingperson
+* Einschätzung von Aufwand und Ertrag vor Beginn des Projekts
+* Stolpersteine
+* Programmcode
+* Arbeitsprotokoll
+* Ergebnis
+* Dank
 
 
 ## Ziel
@@ -194,7 +194,7 @@ Wenn Sie Anmerkungen, Verbesserungsvorschläge oder Ideen haben, freue ich mich 
 * Porträt einer/der Person, die im Haus mit der höchsten Lärmbelastung wohnt
 
 
-#### Merci
+#### Dank
 Ich danke Barnaby Skinner, Simon Schmid, Thomas Ebermann und Alexandra Stark für die gute Einführung in die Welt des Datenjournalismus mit all ihren Stolpersteinen.
 
 Danke meinen Vorgesetzten, dass sie mir die Weiterbildung ermöglichten, mir Zeit gaben und in mich vertrauten.
