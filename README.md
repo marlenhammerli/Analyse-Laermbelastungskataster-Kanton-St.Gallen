@@ -2,7 +2,7 @@
 Auswertung des Lärmbelastungskataster des Kantons St.Gallen (Layers Lärmemission und Lärmbelastung) in Bezug auf die Stadt St.Gallen
 
 
-# Inhalt dieses Read.me
+## Inhalt dieses Read.me
 * Ziel
 * Ausgangsthese
 * Vorgenommene Analysen
@@ -60,7 +60,7 @@ Bevor ich definitiv zum Schluss kam, dass Geopandas mich nicht weiterbringt, hat
 
 
 ## Gespräch mit Briefingperson
-###Andreas Kästli, Fachstelle Immissionen Mobilität und Planung beim Kanton St.Gallen
+**Andreas Kästli, Fachstelle Immissionen Mobilität und Planung beim Kanton St.Gallen**
 
 *Was muss ich bei einer solchen Auswertung beachten?*
 Je näher ein Gebäude an der Strasse steht, umso eher wird der Grenzwert überschritten. Ist eine Häuserzeile nahe an der Strasse, kann man davon ausgehen, dass alle viel Lärm ausgesetzt sind.
