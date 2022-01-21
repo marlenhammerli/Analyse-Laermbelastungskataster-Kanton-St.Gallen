@@ -5,10 +5,10 @@ Auswertung des Lärmbelastungskataster des Kantons St.Gallen (Layers Lärmemissi
 # Inhalt dieses Read.me
 * [Ziel](Ziel)
 * [Ausgangsthese](Ausgangsthese)
-* [Vorgenommene Analysen](Vorgenommene Analysen)
+* [Vorgenommene Analysen](Vorgenommene-Analysen)
 * [Quellen](Quellen)
-* [Gespräch mit Briefingperson](Gespräch mit Briefingperson)
-* [Einschätzung von Aufwand und Ertrag vor Beginn des Projekts](Einschätzung von Aufwand und Ertrag vor Beginn des Projekts)
+* [Gespräch mit Briefingperson](Gespräch-mit-Briefingperson)
+* [Einschätzung von Aufwand und Ertrag vor Beginn des Projekts](Einschätzung-von-Aufwand-und-Ertrag-vor-Beginn-des-Projekts)
 * [Stolpersteine](Stolpersteine)
 * [Programmcode](Programmcode)
 * [Arbeitsprotokoll](Arbeitsprotokoll)
@@ -135,7 +135,13 @@ Für die Koordinaten zur Lärmbelastung versuchte ich es nochmals mit Nominatim,
 ## Programmcode
 Die Codes habe ich in sechs Jupyter-Notebooks auf diesem Repository hinterlegt. Die ersten fünf beinhalten die Codes für die **Auswertung Lärmemissionen**, das letzte die Codes für die **Auswertung Lärmbelastung**.
 
-Im Zip-Ordner **Daten** sind alle für den Code nötigen Files abgelegt. Darunter auch Zwischenergebnisse, sodass es zum Beispiel nicht nötig ist, die Google API abzufragen, um die Analyse nachvollziehen zu können.
+In den Zip-Ordner **Daten** und **Ergebnisse** sind alle für den Code nötigen Files abgelegt. Darunter auch Zwischenergebnisse, sodass es zum Beispiel nicht nötig ist, die Google API abzufragen, um die Analyse nachvollziehen zu können.
+
+Da die Datenmenge sehr gross war, sind für das Ausführen des Codes mit allen Dateien folgende Schritte nötig:
+
+1. Alle Notebooks und die beiden Zip-Ordner lokal abspeichern
+2. Die Zip-Ordner entpacken
+3. Den Ordner "Ergebnisse" in den Ordner "Daten" verschieben
 
 Wenn Sie Anmerkungen, Verbesserungsvorschläge oder Ideen haben, freue ich mich über eine [Rückmeldung](marlen.haemmerli@chmedia.ch)
 
@@ -178,10 +184,9 @@ Wenn Sie Anmerkungen, Verbesserungsvorschläge oder Ideen haben, freue ich mich 
 
 
 ## Ergebnis
-[Erster Artikel: Lärmemission]
+[Erster Artikel: Lärmemission](https://www.tagblatt.ch/laermschutz-wie-ein-rasenmaeher-an-diesen-zwoelf-orten-droehnt-der-verkehr-in-der-stadt-stgallen-am-lautesten-so-sieht-es-an-ihrer-strasse-aus-ld.2236753)
 
-[Zweiter Artikel: Lärmbelastung]
-
+[Zweiter Artikel: Lärmbelastung](https://www.tagblatt.ch/laerm-ueber-70-dezibel-diese-haeuser-in-der-stadt-stgallen-sind-dem-meisten-strassenlaerm-ausgesetzt-ld.2232059)
 
 ### Mögliche Nachzüge
 * Interview, was macht Lärm mit uns?
