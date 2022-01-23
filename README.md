@@ -63,20 +63,21 @@ Bevor ich definitiv zum Schluss kam, dass Geopandas mich nicht weiterbringt, hat
 **Andreas Kästli, Fachstelle Immissionen Mobilität und Planung beim Kanton St.Gallen**
 
 *Was muss ich bei einer solchen Auswertung beachten?*
+
 Je näher ein Gebäude an der Strasse steht, umso eher wird der Grenzwert überschritten. Ist eine Häuserzeile nahe an der Strasse, kann man davon ausgehen, dass alle viel Lärm ausgesetzt sind.
 
 Das ganze Kataster ist ein 3D-Model. Mit einem Tool nehmen wir die Werte von den Verkehrszählungen und berechnen den Lärm. Dabei wird dieser für einen Punkt an der Fassade berechnet. Hat es an diesem Punkt z.B. kein Fenster, weicht der berechnete Wert vom tatsächlichen Wert ab. Es ist also kein ganz genaues Instrument, sondern gibt Grössenangaben an.
 
 Auch die Verkehrszahlen, die hinter den Berechnungen stehen, sind nicht überall im Kanton ganz genau. Die Abweichung kann plus/minus 20 Prozent betragen. Das scheint eine grosse Abweichung, aber auf die Lärmberechnungen hat sie keine so grosse Auswirkung: Es braucht doppelt so grosses Verkehrsaufkommen, damit der Lärm um drei Dezibel steigt.
 
-
 *Welche Wirkung haben die verschiedenen Lärmsanierungsmassnahmen?*
+
 Ein Schallschutzfenster kann den Lärm um bis zu 15 Dezibel senken. Aber hier kommt es drauf an, was für Fenster man vorher drin hatte. Waren es moderne Scheiben dann sinkt der Lärm mit den Schallschutzfenstern vielleicht nur noch um 4,5 Dezibel.
 Bei Lärmschutzwänden kommt es drauf an, wie viel man noch von der Strasse sieht. Umso höher die Wand, umso besser. Dann kann sie den Lärm um bis zu 10 Dezibel senken. Wenn man die Auto noch sieht, wirkt sie noch um 5 Dezibel. Sieht man auch die Strasse wirkt sie kaum noch.
 
 Lärmarme Strassenbeläge senken den Lärm anfangs um 6 bis 7 Dezibel. Aber sie verlieren schnell ihre Wirkung, weil die Hohlräume verschmutzen. Auch normale Beläge werden durch diese Abnutzung lauter. Extrem lärmarme Strassenbeläge senken den Lärm anfangs um 8 Dezibel, aber weil ihre Lebensdauer kurz ist, bauen wir sie nicht ein. Einer der nur um 3 bis 5 Dezibel wirkt hat eine längere Lebensdauer.
 
-Wenn man einen neuen Belag ausprobiert, dauert es immer 10 Jahre, bis man ein Ergebnis hat. Bis man auf die Lebensdauer weiss, wie er sich abnutzt und wie gut er wirkt.
+Wenn man einen neuen Belag ausprobiert, dauert es immer 10 Jahre, bis man ein Ergebnis hat. Bis man die Lebensdauer weiss, wie er sich abnutzt und wie gut er wirkt.
 
 In letzter Zeit und auch wegen Bundesgerichtsurteilen sind auch Geschwindigkeitsbegrenzungen ein Thema. Senkt man das Tempo von 50 auf 30 Kilometer die Stunde gewinnt man 3 Dezibel. Aber wenn die Autos auf der mit 50 signalisierten Strecke schon 40 fahren, weil schneller nicht geht, dann ist die Wirkung durch die Reduktion auf 30 Stundenkilometer nicht mehr so gross. Man gewinnt nur noch 1 Dezibel.
 
@@ -96,10 +97,10 @@ Alles in allem denke ich, der Zeitrahmen von fünf Tagen könnte knapp werden. Z
 Auf einer Skala von 0 (= keinen) bis 5 (= maximum):
 
 * Journalistischer Impact: 4
-Eventuell nimmt ein/e Politiker:in das Thema in einer Form auf, da es viele Leute betrifft. Ausserdem dürfte diese Auswertung die Glaubwürdigkeit des "Tagblatts" stärken und Leser:innen vom Wert des Abos überzeugen bzw. zu einem Kauf bewegen.
+Eventuell nimmt eine Politikerin oder ein Politiker das Thema in einer Form auf, da es viele Leute betrifft. Ausserdem dürfte diese Auswertung die Glaubwürdigkeit des "Tagblatts" stärken und Leser:innen vom Wert des Abos überzeugen bzw. zu einem Kauf bewegen.
 
 * Mögliche Reichweite: 4
-Weil es viele Leute betrifft, die ganze Stadtbevölkerung aber auch jene, die in St.Gallen arbeiten, dürfte die Analyse auf grosses Interesse stossen.
+Weil es viele Leute betrifft (Stadtbevölkerung und jene, die in St.Gallen arbeiten), dürfte die Analyse auf grosses Interesse stossen.
 
 * Knowhow-Aufbau: 5
 Ich werde sehr viele erworbenen Fähigkeiten einsetzen und sicher auch neues Wissen aufbauen, das mir auch in Zukunft von Nutzen sein wird.
@@ -125,7 +126,7 @@ Die Koordinaten lagen im Schweizer Koordinatensystem vor. Für die Adressabfrage
 ### Nominatim
 Ich fragte mit den Koordinaten der Lärmemissionen Nominatim, die API von Open Street Map ab. Dies führte auf mehreren Ebenen zu Problemen:
 * Die Daten in Nominatim sind extrem lückenhaft. Stellenweise konnte ich für Koordinaten weder Strasse, Hausnummer, PLZ noch Gemeinde abfragen. Mir war bewusst, dass die Angaben auf Open Street Maps lückenhaft- und teilweise fehlerhaft sind. Das Ausmass der Lücken überraschte mich aber trotzdem.
-* Nominatim ist nicht für grössere Abfragen geeignet, entsprechend langsam, verweigert aber ab einem gewissen Zeitpunkt auch einfach den Dienst. Hier hätte ich mich zu Beginn vertiefter Einlesen müssen.
+* Nominatim ist nicht für grössere Abfragen geeignet. Abfragen dauern entsprechend. Ab einer gewissen Zahl sind gar keine Abrufe mehr möglich. Hier hätte ich mich zu Beginn vertiefter in die Dokumentation einlesen müssen.
 
 Für die Koordinaten zur Lärmbelastung versuchte ich es nochmals mit Nominatim, da es sich um einen kleineren Datensatz handelte. Doch wichen die daraus gewonnenen Adressen teilweise um mehrere Strassenzüge von der tatsächlichen Adresse ab.
 
@@ -177,7 +178,7 @@ Wenn Sie Anmerkungen, Verbesserungsvorschläge oder Ideen haben, freue ich mich 
 |   17. Januar                       |   Interview geführt für zweiten Artikel, Grafiken erstellt                                                                    |   3                         |
 |   18. Januar                       |   Zweites Interview für zweiten Artikel geführt, Bilder für zweiten Artikel bestellt.                                         |   0.75                      |
 |   19. Januar                       |   Drittes Interview für den zweiten Artikel geführt, Artikel geschrieben, Grafik für Print bestellt.                          |   4                         |
-|   21. Januar                       |   Beide Artikel nach Rückmeldungen, fertig gestellt.                                                                          |   0.5                       |
+|   21. Januar                       |   Beide Artikel nach Rückmeldungen fertig gestellt gestellt.                                                                          |   0.5                       |
 |   TOTAL                            |                                                                                                                               |   63                        |
 |   In Arbeitstagen von 8,5 Stunden  |                                                                                                                               |   7.41176470588235          |
 
