@@ -189,15 +189,20 @@ Wenn Sie Anmerkungen, Verbesserungsvorschläge oder Ideen haben, freue ich mich 
 
 [Zweiter Artikel: Lärmbelastung](https://www.tagblatt.ch/laerm-ueber-70-dezibel-diese-haeuser-in-der-stadt-stgallen-sind-dem-meisten-strassenlaerm-ausgesetzt-ld.2232059)
 
+-> Für die Stadt Wil habe ich bereits eine Auswertung zur Lärmbelastung vorgenommen und der zuständigen Redaktorin zugestellt. Der Artikel dürfte im Verlaufe des Februars erscheinen.
+
+
+
 ### Mögliche Nachzüge
 * Interview, was macht Lärm mit uns?
 * Feature von der lautesten Strasse in der Stadt St.Gallen
 * Porträt einer/der Person, die im Haus mit der höchsten Lärmbelastung wohnt
+* Dieselbe Analyse für weitere Städte im Kanton St.Gallen oder anderen Kantonen (die Daten müssen gesetzlich erhoben werden, liegen also überall vor, die Frage ist in welcher Form)
 
 
 #### Dank
 Ich danke Barnaby Skinner, Simon Schmid, Thomas Ebermann und Alexandra Stark für die gute Einführung in die Welt des Datenjournalismus mit all ihren Stolpersteinen.
 
-Danke meinen Vorgesetzten, dass sie mir die Weiterbildung ermöglichten, mir Zeit gaben und in mich vertrauten.
+Ich danke meinen Vorgesetzten, dass sie mir die Weiterbildung ermöglichten, mir Zeit gaben und in mich vertrauten.
 
-Danke meinen Teamkolleginnen und -kollegen fürs Mitdenken, wenn ich den Lärm vor Daten nicht mehr sah.
+Ich danke meinen Teamkolleginnen und -kollegen fürs Mitdenken, wenn ich den Lärm vor Daten nicht mehr sah.
